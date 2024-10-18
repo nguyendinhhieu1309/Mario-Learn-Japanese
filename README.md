@@ -99,7 +99,7 @@ Please feel free to open issues if you find any bugs or have suggestions for imp
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
-Developed by **Your Name** - [LinkedIn](https://www.linkedin.com/in/nguyen-dinh-hieu-818778303/)
+Developed by **Nguyễn Đình Hiếu** - [LinkedIn](https://www.linkedin.com/in/nguyen-dinh-hieu-818778303/)
 
 ---
 
